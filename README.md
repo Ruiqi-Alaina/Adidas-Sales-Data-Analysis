@@ -7,8 +7,8 @@ This project aims to analyze sales data of Adidas in the United States with Powe
 * Explored the sales amount of Sale Methods
 * Automate the progress with power auomate-cloud work flow triggered by new reponse
 ## Data 
-The dataset was downloaded from  [Kaggle} (https://www.kaggle.com/datasets/vishwas199728/adidas-sales-data)
+The dataset was downloaded from  [Kaggle] (https://www.kaggle.com/datasets/vishwas199728/adidas-sales-data)
 ## Build With
 * PowerBI
-  Power Query. DAX.
+  <br> Power Query. DAX.
 * Power Automate
